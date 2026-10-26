@@ -1,0 +1,4 @@
+interface:
+  display_name: "想清楚再做 PPT（汇报大纲助手）"
+  short_description: "慢想快做：动手画 PPT 前，先把想法和材料磨成有依据的逐页大纲与讲稿"
+  default_prompt: "使用 $think-before-slides 帮我梳理汇报大纲。我还没想清楚，先给我看看 5 个常见场景。"
